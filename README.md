@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]!
+👋 Hi, I'm Ahsan!
 
 I'm a passionate developer currently diving into the worlds of MERN stack and Game Development. I love building innovative solutions and creating engaging user experiences. I’m also exploring the realms of AI and can't wait to combine my knowledge in Java, C#, and JavaScript to push the boundaries of what's possible!
 
